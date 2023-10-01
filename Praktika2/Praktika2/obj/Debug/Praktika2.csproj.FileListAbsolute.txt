@@ -1,0 +1,6 @@
+C:\Users\mixar\source\repos\Praktika2\Praktika2\obj\Debug\Praktika2.csproj.CoreCompileInputs.cache
+C:\Users\mixar\source\repos\Praktika2\Praktika2\bin\Debug\Praktika2.exe.config
+C:\Users\mixar\source\repos\Praktika2\Praktika2\bin\Debug\Praktika2.exe
+C:\Users\mixar\source\repos\Praktika2\Praktika2\bin\Debug\Praktika2.pdb
+C:\Users\mixar\source\repos\Praktika2\Praktika2\obj\Debug\Praktika2.exe
+C:\Users\mixar\source\repos\Praktika2\Praktika2\obj\Debug\Praktika2.pdb
